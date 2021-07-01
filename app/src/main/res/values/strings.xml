@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Ipod</string>
+    <string name="play">Play</string>
+    <string name="pause">pause</string>
+    <string name="continua">continue</string>
+    <string name="stop">stop</string>
+    <string name="repetir">repetir</string>
+    <string name="cont">cont</string>
+    <string name="conti">continue</string>
+</resources>
